@@ -2,6 +2,7 @@
 -- Version: 3.2
 
 -- Instances:
+getgenv().Transpar
 local ESPEnabled = false
 local ESP = Instance.new("ScreenGui")
 local EnableESP = Instance.new("TextButton")
