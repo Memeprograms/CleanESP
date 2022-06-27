@@ -15,11 +15,11 @@ ESP.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
 ESPShade.Name = "ESPCell"
 ESPShade.Parent = game.ReplicatedStorage
-ESPShade.FillTransparency = getgenv.Transpar()
+ESPShade.FillTransparency = Transpar
 ESPShade.DepthMode = Enum.HighlightDepthMode.AlwaysOnTop
-ESPShade.FillColor = getgenv.Fill()
+ESPShade.FillColor = Fill
 ESPShade.Enabled = true
-ESPShade.OutlineColor = getgenv.Outline()
+ESPShade.OutlineColor = Outline
 ESPShade.OutlineTransparency = 0
 
 
